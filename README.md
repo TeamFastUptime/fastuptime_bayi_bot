@@ -23,7 +23,7 @@ It is forbidden to change or edit the bot!
 
 ## ⛳Tech Stack ⛳
 
-**🗄️Server:** Node, mongoose, i18, fs, moment
+**🗄️Server:** Node, mongoose, discord.js, fs, moment, axios
 
 ---
 - ✨ [For Support](https://github.com/sponsors/fastuptime) <br>
